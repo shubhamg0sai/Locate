@@ -1,6 +1,6 @@
 # Locate
 
-git clone https://shubhamggosai/Locate
+git clone https://github.com/shubhamggosai/Locate
 
 
 ### FIND...ME.
