@@ -1,7 +1,7 @@
 # Locate
 
 
-![ ](https://github.com/shubhamggosai/Locate/blob/master/Screenshot_20200911_201037.jpg)
+(https://github.com/shubhamggosai/Locate/blob/master/Screenshot_20200911_201037.jpg)
 
 
 
