@@ -40,6 +40,8 @@ pkg install python2
 
 pip2 install PHP
 
+pkg install wget
+
 git clone https://github.com/shubhamggosai/Locate
 
 cd Locate
