@@ -32,13 +32,13 @@ https://t.me/ShuBham_g0sain
 
 pkg update 
 
- pkg upgrade 
+pkg upgrade 
 
 pkg install git 
 
 pkg install python2 
 
-pip2 install --upgrade pip
+pip2 install PHP
 
 git clone https://github.com/shubhamggosai/Locate
 
@@ -48,8 +48,6 @@ pip2 install requests
 
 pip2 install mechanize
  
-chmod 777 Shubham
-
-python2 Shubham.py
+bash Shubham.sh
 
 
