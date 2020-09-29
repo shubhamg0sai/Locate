@@ -38,7 +38,7 @@ pip2 install PHP
 
 pkg install wget
 
-git clone https://github.com/shubhamggosai/Locate
+git clone https://github.com/ShuBhamg0sain/Locate
 
 cd Locate
 
