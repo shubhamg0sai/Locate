@@ -4,7 +4,7 @@
 ![Screenshot_20200911_201037](https://github.com/shubhamggosai/Locate/blob/master/Screenshot_20200911_201037.jpg)
 
 # Find me on 
-[Instagram](https://www.instagram.com/shubham_g0sain/?hl=en)
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain/)👈
 
  ### installation
 
