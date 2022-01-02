@@ -1,12 +1,11 @@
 # Locate
 
 
-![Screenshot_20200911_201037](https://github.com/shubhamggosai/Locate/blob/master/Screenshot_20200911_201037.jpg)
-
-# Find me on 
+![Screenshot_20200911_201037](https://github.com/shubhamg0sai/Locate/blob/master/Screenshot_20200911_201037.jpg)
 
 Instagram account
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
+
 
  ### installation
 
@@ -22,7 +21,7 @@ pip2 install PHP
 
 pkg install wget
 
-git clone https://github.com/ShuBhamg0sain/Locate
+git clone https://github.com/shubhamg0sai/Locate
 
 cd Locate
 
